@@ -14,7 +14,7 @@ const Menu = ({items}) => {
     <h4 className='price'>{price} </h4>
     
     </header>
-    <p className='item-text'>{descs} </p>
+    <p className='item-text'>{desc} </p>
     </div>
       </article>
     );
